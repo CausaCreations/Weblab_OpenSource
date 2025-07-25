@@ -1,0 +1,5618 @@
+fileFormatVersion: 2
+guid: dc8b9f218e5f04f94b164a50f5c8faeb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 960, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level3_Grid_0
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc84ab6bdfd8477084f3f673d02b501
+      internalID: -1753499555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e822614161fc240f8b9a534edb81a7ce
+      internalID: 1591386245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b29d055adc0c4160adb9d674e70d470
+      internalID: 2003657854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e43ef98c8b54c51b7d9c0e2009eddc
+      internalID: -1696294727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a70400df265b462e9e9c19139a71aec
+      internalID: -46184496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f99b57ba5c3459c8d507c6f13a81f1
+      internalID: 291838334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0588a623684e6ba9e309ab4f142c1
+      internalID: 1146179551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5073dfaa6ec784f32aed51bca5c68caf
+      internalID: 2065645791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5335d133d6b145318e6c83292a64217
+      internalID: 1962666979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac98c0846c7748479c29d3693b42be8
+      internalID: 2110239514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_10
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f6816e34051444183808d91dd7ac90
+      internalID: 1196643082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7b2ec99b5f49bfa3c7863ba3e1716
+      internalID: -1570094401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_12
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1313ae4d1393f4296bac04fd49305ebb
+      internalID: 263520886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d738fd183c1479b94124e7a3ad1127
+      internalID: 1805753912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_14
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7481fd2c40e0487baa5a1eb989ccf49
+      internalID: 737121275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1f61a5d04d468b95e8d8c46e47366
+      internalID: -1480317227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_16
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160210c7abcc4fd394f5f1d3486830d
+      internalID: -2147455606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_17
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef73fddd3fcb644428197eb2f9c988b6
+      internalID: -1472078104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ab89340f6ea43efbb547d14ada2be8
+      internalID: 173515071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02618ebd80dc949af88f146d33c80f75
+      internalID: -690047768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e3322a8366a4007906874503069abe
+      internalID: 1608839864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_21
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb95012b605c43c7a20c3c792152964
+      internalID: -565347151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_22
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a17b124951d4c34ae34c04a2ab1868
+      internalID: 438945475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede89c2d13a440cba0117ecaa5fd7fb
+      internalID: -453457498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_24
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678bbc49157c648fdbcce8b6914ccfe3
+      internalID: 1637745759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc127f3ec1fe4d49bdc182c80434828
+      internalID: -1520547306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_26
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92564c3f3298d4771bbffb100bcfb8f1
+      internalID: -1314054797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_27
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee74cb071dd445490ca2f293e53ae9
+      internalID: 469112643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_28
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4f8be4a57f456ebb8628fa7964ad3
+      internalID: 354393337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_29
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc415913a684628bcf8a62d0eab812
+      internalID: 334342277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_30
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f5e713d0f0476491ac1b349dd3865
+      internalID: 700585028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a8291c837c46349995f351b8f19c6
+      internalID: -1760478125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_32
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecfd7505d2444946aab28c23946d519
+      internalID: -2063353355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a942da98fb5dc4d1faa935699e2c6212
+      internalID: 1042331015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00226c8509bfa4cc280d328113c7fb9f
+      internalID: -1117196901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_35
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f53b40540f4f4488bbf23910f88d6
+      internalID: -1742283637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_36
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dfd09ffd9a04aed96911d7e46f8415
+      internalID: -668488137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_37
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceff13c680c674fd6ab0b50ffa24fb8c
+      internalID: 549250933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_38
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff5bb2b78354f6387092436772021f
+      internalID: -1104772781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_39
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b3a1cd3cb24475ba15ea311af5042
+      internalID: 1080834896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_40
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ab97441990540a58dc588358181c5f
+      internalID: -685540307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_41
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b113524243439cb9d79acb231afb3
+      internalID: -1834769501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_42
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be784affbea47cdbc7eb18d4d79374
+      internalID: 1349458479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_43
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e85165fbefc4ff4a507bae103da00e
+      internalID: 1381684468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_44
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba68d12b3aa4ba883f0ea1f2b06a48
+      internalID: -1435789069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_45
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdef47491c5314f6c8d1482178b4bc5a
+      internalID: -1855941562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ef98aeeb1f4c1e9e2eddaf05d3a87
+      internalID: -1867341040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_47
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad4b255e4ba46e184299d2f5a176df
+      internalID: 1723399749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_48
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e262c1a8666414863bd737466f185dfe
+      internalID: -686236783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_49
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9b2c5e94a94458b33c6df7600063d
+      internalID: -454748134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_50
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397200f2920a43b4a56ea74f1d44c78
+      internalID: 1370662193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_51
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48418126d9ee8407697e27744294ff3d
+      internalID: -710289533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_52
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe51d2add8a8473bb359d66f96332c4
+      internalID: -1915232302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_53
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d99c5b64f64cd1ac7b7b69a9c8911
+      internalID: -1590825535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_54
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02a96d009be437198a209eb9dfad8b
+      internalID: -1083797094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_55
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fa8034ff2b64042a282319760b44ad
+      internalID: -2138255474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_56
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef830b18d5b7e4319a6285f8d8813171
+      internalID: 1970556627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_57
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd0eb1b56b9849b2a5cd41631b7b497
+      internalID: -1862710723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_58
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50902f82516584c7689aefc11030b846
+      internalID: 855789147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_59
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c5fc94fdcd4984bf7b9061fbb21b1
+      internalID: -2072354442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_60
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d3ed0fbdee84dc3864db195264d199
+      internalID: 130318023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_61
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedeffb6fa3f54d3481d16f4ac95643e
+      internalID: 204735912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_62
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b85a1a75e346c0b7dc3e10b529247
+      internalID: -1878027458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_63
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53b9d1d262542128c3142147270bd3
+      internalID: -889289607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_64
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd720758d1ac94619a3e097573644aeb
+      internalID: 953455392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_65
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff528514a9c4487ab0adb03695ed0e7
+      internalID: -1271068233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_66
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f794342317654c6abe9e1a69b4614e8
+      internalID: 950500643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_67
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c966f408494470a499cacf1a46da8
+      internalID: 1775170453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_68
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c0ecd2b5cb64d43b813881f2c233f5
+      internalID: 1197355288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_69
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b2ed69c57c2409399c8d9f7a52c7c8
+      internalID: 2023196772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_70
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e56979e95ee497d95cadbbd1a61746
+      internalID: -1658843978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_71
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46108386921034bc3af5dd5a4bad3201
+      internalID: 2050215750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_72
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2af651b1dd457f92c08ce369cb701
+      internalID: 1976166858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_73
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2fd4d5aec27436a9415ac3a8f685f0
+      internalID: 329215085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_74
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 670
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef61da4dd00ae40daab281d4f9e7caf5
+      internalID: -1572678882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_75
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 670
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d2214dbd88844028ceb676e582cad4
+      internalID: 1483947732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_76
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 670
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6325292a0b142348b7d2cbd47d6849
+      internalID: -121977451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_77
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 670
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64113f42bc114888abdd422210c8689
+      internalID: -112413356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_78
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 670
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fa6192e99e643d88ae644cf62d5fcf
+      internalID: -1136917227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_79
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 670
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b5268415a54c75a44ab7311e0d3ba
+      internalID: 1276526886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_80
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 670
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc03cb452424ab8b1452158eaeeb3b
+      internalID: -2118534288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_81
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 666
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b51a1d70803d47ff898924e42ef16f4
+      internalID: -1873205839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_82
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 666
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2da8c51a3c74c4d8424e47eb5282cd
+      internalID: -31377720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_83
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e1db1206f5f450e84940c06b04e380
+      internalID: 679384314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_84
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6c68244c4647019ab6475f4f01ace
+      internalID: 647510132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_85
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f39b1b45fb34dc89498e5e6b34c8d1
+      internalID: 1388729877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_86
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc798bb0d827f4959aba28d10cef5f9c
+      internalID: 411206628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_87
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b8b88e7eaca4d0ca8b373226059ccf
+      internalID: -909332794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_88
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56df5fd1cd944cdbd5b77eb9b2c34e
+      internalID: -1119373749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_89
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c352b042854eb6804dde8e9008233
+      internalID: -1557512143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_90
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5d54b48c4b481e933a4752a04acd7
+      internalID: 856948167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_91
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d8a9ab63f9422a8e5749bab409d70
+      internalID: 763012778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_92
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29a31dd6a584a368d58f819f1d971b
+      internalID: -1404305925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_93
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f72858a1194a09bf91f2fb4e6667b
+      internalID: 491609856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_94
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7531311473509497483bc539b946ba7f
+      internalID: 1030467091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_95
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bba1f6fb42c24a4eae3c61ce23f63f6
+      internalID: -1963381182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_96
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435f956fc7def42a8b6cc12e77dee2f9
+      internalID: 7098935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_97
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beed188418e5f4294b3a210ce10a3695
+      internalID: 1379782948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_98
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c76ead2d774cf08e304f1080a3c03
+      internalID: 2046842678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_99
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd44b855cd3e40a89d644cf7c112a1f
+      internalID: 882048408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_100
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73581dec20db04fe6a8ccaf645a2f3b8
+      internalID: -2121170525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_101
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77a713f9549e42759f281435d9d86cf
+      internalID: 1521064929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_102
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c1f3cf197f4e4aafce8df5710b619
+      internalID: 243940016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_103
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a26a8d0f4a4e0f995a65457a95ce1
+      internalID: 925282818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_104
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6be9ade45654e7492cefe9fd0fe9de
+      internalID: -761869353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_105
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3370d5da3655b4c33ba2abecd20be6f8
+      internalID: -1869802810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_106
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3240e82e60247eb9bd2b25ba8ca5ab
+      internalID: 904018087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_107
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca875a3a272f47e4a67177b8a8f404f
+      internalID: -689897428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_108
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a81f5650d9240e1b975e2b73b8cf52
+      internalID: 1185721818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_109
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76eaa74840845ae95a831981a46674
+      internalID: -1913642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_110
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ddab1a0516e40c39663385a805227b
+      internalID: 2125226673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_111
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eadbe0154da44cb1b57557b2c32d796
+      internalID: 584752815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_112
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b16a78d8494ef39a592eaf85b6e92
+      internalID: -1058461074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_113
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ac0f5d9b354d1e9d3722b592db432
+      internalID: -1983304420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_114
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4417b4f1d6b4b2abf685660749f978
+      internalID: -1092158756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_115
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d928804664394a3399b5abfdcaf6c2d
+      internalID: 1539721218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_116
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 644
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead876ff0c574dafbaeebc98a6f383e
+      internalID: -263273830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_117
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340c4bddaee24d63b0a954255d64dcd
+      internalID: -1964606064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_118
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d748f6f1356e7433bbb8bf5dfd4aa4c3
+      internalID: 939198522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_119
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27779ddc75175468f98a4fd0e8ce35c8
+      internalID: 1299165472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_120
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec6a4d1a5ca4a509ec4d379b0812ab
+      internalID: -152140238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_121
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8856c2e4e554e75b947c6422667298
+      internalID: -1148832987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_122
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15180a554b7b142a38a5f55e3c24ae2e
+      internalID: -135266595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_123
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fcabcbbe1ad4f7ea31733ae9feaec5
+      internalID: -2136927436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_124
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf2536bf2b94b3681d4ec3c931b04a
+      internalID: 1514392908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_125
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3f4f9acce98437aac11b25f5cfd072
+      internalID: 474176165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_126
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d112d934338094242a47b4327be6ff38
+      internalID: -1572865065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_127
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3e215d788ad4b82af4b1dbd3d3bb28
+      internalID: -1803143998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_128
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b388bde19e2412aaa369311b0f67fa
+      internalID: 99519840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_129
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f484d720c9184510a367704d9114db9
+      internalID: -1209677467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_130
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d253af4cf14648a4488de67e27b66
+      internalID: 1783154636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_131
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8f2aa5ae8741ef8e19970a7490c01
+      internalID: -1921654471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_132
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c019c4b34724cfca89af79ae425a12
+      internalID: -95482473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_133
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f314809328840d2be95cbb3c139385
+      internalID: -1652816524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_134
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc962891810394c5e89d650ac1746942
+      internalID: -2059423939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_135
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 583
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d596d06492b457db73643b15d03ab6
+      internalID: -1505336076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_136
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 583
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91ed9cd200114c188aff6afbdb31c0d
+      internalID: 1301176976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_137
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 583
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de6d913135f24025a295ff71430ac05
+      internalID: 1197434257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_138
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df103fd4c394b57a680959cb793df6
+      internalID: -990556319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_139
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b79f2957ffac4a51af8dd8074d9f4be
+      internalID: 904012170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_140
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3295b5ff6bf64decaf7bd8f5be1c90b
+      internalID: 1022587108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_141
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353b5ad407ade47cca62c7412563e42b
+      internalID: -1331830247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_142
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45976acd73e344a994867c7cec887e6
+      internalID: -627303269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_143
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d6c03826144a8db025810e0eb16d1
+      internalID: -1268753281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_144
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdac652f6b494e569df052b1f307aec
+      internalID: 1707909258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_145
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e316bcaba664998a8a9451ebb584cc
+      internalID: -1562709935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_146
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcd04b6b341044d898e219d94527b11
+      internalID: -1518903714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_147
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399898f52c2841b7b7e3f2fa7805354
+      internalID: 1515354814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_148
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505b52b7205024b0d93e8c81a817959f
+      internalID: -1454266824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_149
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 550
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24371f1fd3b014ba3b88251be8cf2fc0
+      internalID: -1093721626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_150
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 550
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68201b8e8e2d4a7ba089ae7378d0a27
+      internalID: -798209890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_151
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 546
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a4dbf8f3d84e1fb1a74be6090c079
+      internalID: -1460648744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_152
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 546
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b84580b39f4007aaa17bc994a0fee
+      internalID: -1997560853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_153
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 546
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b3728cca05c4d339dcd313d5be9f31
+      internalID: 421779848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_154
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 546
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5550136be5324ddd9f1ca047e879206
+      internalID: 1830231459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_155
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 546
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170fc7f4f9964ab29e8cfe06785ca6c
+      internalID: -1026106880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_156
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 546
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9149f18c4519442ebf6017716568648
+      internalID: -1347028889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_157
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 546
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ffb321dd76468f9b1396c01c3df74
+      internalID: 1877805614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_158
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 524
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72a5aa73eff4e008c71ae48bb0539d
+      internalID: -939021389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_159
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 524
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb77b5273c3114acb84e4eea98ceda1c
+      internalID: 1266964946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_160
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 524
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f679a5a7fc3844ec98da658c482da08
+      internalID: -294902948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_161
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 524
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14400b1492c374b7eadf1d7180deb284
+      internalID: -493687558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_162
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 524
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b16cb7c93ab04960ac51eb44c90f400
+      internalID: 1542243885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_163
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 524
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47291a261064d44ba9a0bd5b81b2bdae
+      internalID: 1176183527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_164
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 524
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777404b23ce8a49b8a21cc67b9183609
+      internalID: 864809883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_165
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d339860673ed740249d65504bc706851
+      internalID: 375792785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_166
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e361a8476ec9649f298a3d800e4be57c
+      internalID: 2035104458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_167
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d25fedef7a4274aff69cf5e36db88
+      internalID: 1973580934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_168
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2691db30836d495fa1c526dd2fe8c16
+      internalID: 1378480677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_169
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbdead917509459aac27e6a31b46c7c
+      internalID: -2062697523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_170
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef086248ac523478fba82c49445b8699
+      internalID: 376698979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_171
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16337dd5f50574b86b5ef506a06815ad
+      internalID: 190824966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_172
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271d3890c4860489da8d17cf600dcf5d
+      internalID: -1457835647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_173
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ad42c2827a44168b0603dbcf5c7ff9
+      internalID: 1182115057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_174
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb904baac55e484896d4fb51beff7e8
+      internalID: 2051134840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_175
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7136f3d870b574280b4cdf967234b1e4
+      internalID: -1643644229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_176
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a910b5c4bea54ba3af6d13ab9056f02
+      internalID: 1906552970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_177
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34245e69d1fae407e84e2fb5532c1fd4
+      internalID: 1989047353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_178
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f4ae250ae9746a2894956743725b3d
+      internalID: 1312962937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_179
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ea7bf0d23d4151b62cfc87a1cbeff
+      internalID: -743405357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_180
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd41604ca9564f77badd5bcb4ed593e
+      internalID: -2043334715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_181
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f622d74dee62e4656821583583632ba7
+      internalID: 694941979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_182
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aafd1b986c546eaa8fe8cadc099296
+      internalID: -287380071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_183
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c336b15415946089751cbaf5c067ee
+      internalID: 545969170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_184
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d425c15412f1438da43c81d4a393d98
+      internalID: -1089468574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_185
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b74d53ea2f804659a5b1a6f22fdfac0
+      internalID: 1111201408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_186
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019b5eaa5c6f400c9912b62581ce8d7
+      internalID: 931456128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_187
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca8d5aa26684444a869a9734708ff8
+      internalID: 1551627945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_188
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392672bfe03ba4a8babfd860d1b42988
+      internalID: -1661032405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_189
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0472ce5ee3db041f9b38f353f26a0153
+      internalID: 1509075196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_190
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326bf43fc8c514a8d983e1d113c0a940
+      internalID: -1028342501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_191
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f14e008c58432a865fbdf660002e7
+      internalID: -616998836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_192
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be19cbdc8bf847baa9b9444aaf24f2b
+      internalID: -1381212100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_193
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8029f44feb7774837b9b72bc5b2d165a
+      internalID: -510141088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_194
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fadbefbb18d42bf9c6c246baed062b
+      internalID: -1826308106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_195
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63e26dba20e4425876861b22561ce5
+      internalID: -178485126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_196
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b0ba5fc940e4a2a9fa99ddf8f12c87
+      internalID: 231418029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_197
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219e7bb004e37479a875010d5b033c44
+      internalID: -754659139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_198
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb55d8a2637704d1fa5c73e036aee464
+      internalID: 73774864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_199
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ae54d5949a34a2b97c097d3db4f3c6
+      internalID: -31738440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_200
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978b61bca249046359df37c874c1c1c9
+      internalID: -1826153959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_201
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcbbb03975554f2b9bf7c7c5aaaeeb3
+      internalID: -1076076774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_202
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4e0e5e96a994e5ca8fc25bb32f9c37
+      internalID: 1952936075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_203
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e05802b4014fe1a7ab3e89d648dba
+      internalID: 1103125507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_204
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eafde3740c247489340d067d20dee5
+      internalID: -560374361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_205
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574ab944a0524447db742912d6f13427
+      internalID: 689570679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_206
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7cc149205f4a24b3b6ce63be598a2
+      internalID: 1094243566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_207
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23707db934646bf87b1067ae34a80f
+      internalID: 327723579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_208
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866d7fc1757084b498f1ad5924c34b2a
+      internalID: 1753671056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_209
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f1dea3feec94c2abc4e3f14cd1733d
+      internalID: 1546449233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_210
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c302c126b78049edae0bebcbff5e910
+      internalID: 2081598474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_211
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de3ba9fcf2d34a2b8a925089b4e6304
+      internalID: 603307107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_212
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c988c573531f49dda60a77b1f8a066d
+      internalID: 772075017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_213
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa8ceb1c02d249c2b2a1bcd576572d9
+      internalID: 727071334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_214
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924a23e2a18a3472c8ae144dec22a9b2
+      internalID: -924411315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_215
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3f8fb5f0b814ed6b8508f29cdf2973
+      internalID: 1836679223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_216
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc7690c6f2e346caaa654ffab3c6090
+      internalID: 1440159714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_217
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723b5dd3e2edc4f43bce06a7ca3b801c
+      internalID: -959880106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_218
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b760dd02214dbbba308a0c78d389d
+      internalID: -957222035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_219
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e397b93beefeb48969d2ffed6f36409f
+      internalID: 998126672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_220
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf5f8078e3eb435cbd3c529672068e8
+      internalID: 1272286740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_221
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c822817e5b00949dfae2581433dbdc13
+      internalID: 976022081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_222
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e476b21f4ff413281baebaefcf8434
+      internalID: -317503978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_223
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eacfe56aa23440b9852b818acb6ccf1
+      internalID: 2069360655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_224
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c8c2c9b2d34da5b6644c61f0893a3
+      internalID: -597232110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_225
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb40a29c9e94ed8b6292f51db28cb3
+      internalID: -124485372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_226
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df7b04cb0d17417c99cfa6712a5c8d9
+      internalID: -321803133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_227
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0265ec3b7264f8db0d08389607346f
+      internalID: -640303750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_228
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f51307625345adade94d15079de9a
+      internalID: -1242115241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_229
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a28917cb2314a21a1f3934388bc91f
+      internalID: 877182451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_230
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c255243f9f174d21b44022d8347650b
+      internalID: 870545732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_231
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51947d3fff4554e8a86fb4cdead9b157
+      internalID: -1076042302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_232
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c9f134c460496c903778f0cb03681
+      internalID: 1653353414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_233
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21929b14a2742480aaf379dc44e0232d
+      internalID: -331039450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_234
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c4b01f091e4cf0bbb9dcb32016c3e
+      internalID: 1014728210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_235
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957c5e8f23c54e08a97109bf0b262bb
+      internalID: -26854027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_236
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c749d5102bc54b558df7c14033b6f40
+      internalID: -279605460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_237
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9a2e9458a62486a89ca40b8399b88a
+      internalID: 285546606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_238
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c8888b2ae264fedbf87632df8623f7
+      internalID: -1148870556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_239
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca6eded9908449aac3f4205e72acfc
+      internalID: -1620862323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_240
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b5ad7606d240d3be3a7758e9b52a2
+      internalID: -103992274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_241
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dfafd0f3de447db9dfeadb2556f1a4
+      internalID: -524925685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_242
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b243150e76c4cba98cb1c0c4ae11b2
+      internalID: -527190613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_243
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5383affe0ec4bd7afb65bded5fc1f0
+      internalID: 129883025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_244
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f5a46f8b1e4a7ca4cd4601b5db883
+      internalID: 1872855628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_245
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 254
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e93ce8d68c094e51a6270df4b8875e3
+      internalID: 202999874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_246
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 254
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec3aa87cd4b43a68a5125a5a79f772
+      internalID: 91399399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_247
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 254
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3ad0eb606643768b22bf78e3c923a
+      internalID: 697359391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Grid_248
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 254
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3533019ff677c429eb125c197cd8c3c6
+      internalID: -1014980023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Level3_Grid_0: -1753499555
+      Level3_Grid_1: 1591386245
+      Level3_Grid_10: 1196643082
+      Level3_Grid_100: -2121170525
+      Level3_Grid_101: 1521064929
+      Level3_Grid_102: 243940016
+      Level3_Grid_103: 925282818
+      Level3_Grid_104: -761869353
+      Level3_Grid_105: -1869802810
+      Level3_Grid_106: 904018087
+      Level3_Grid_107: -689897428
+      Level3_Grid_108: 1185721818
+      Level3_Grid_109: -1913642
+      Level3_Grid_11: -1570094401
+      Level3_Grid_110: 2125226673
+      Level3_Grid_111: 584752815
+      Level3_Grid_112: -1058461074
+      Level3_Grid_113: -1983304420
+      Level3_Grid_114: -1092158756
+      Level3_Grid_115: 1539721218
+      Level3_Grid_116: -263273830
+      Level3_Grid_117: -1964606064
+      Level3_Grid_118: 939198522
+      Level3_Grid_119: 1299165472
+      Level3_Grid_12: 263520886
+      Level3_Grid_120: -152140238
+      Level3_Grid_121: -1148832987
+      Level3_Grid_122: -135266595
+      Level3_Grid_123: -2136927436
+      Level3_Grid_124: 1514392908
+      Level3_Grid_125: 474176165
+      Level3_Grid_126: -1572865065
+      Level3_Grid_127: -1803143998
+      Level3_Grid_128: 99519840
+      Level3_Grid_129: -1209677467
+      Level3_Grid_13: 1805753912
+      Level3_Grid_130: 1783154636
+      Level3_Grid_131: -1921654471
+      Level3_Grid_132: -95482473
+      Level3_Grid_133: -1652816524
+      Level3_Grid_134: -2059423939
+      Level3_Grid_135: -1505336076
+      Level3_Grid_136: 1301176976
+      Level3_Grid_137: 1197434257
+      Level3_Grid_138: -990556319
+      Level3_Grid_139: 904012170
+      Level3_Grid_14: 737121275
+      Level3_Grid_140: 1022587108
+      Level3_Grid_141: -1331830247
+      Level3_Grid_142: -627303269
+      Level3_Grid_143: -1268753281
+      Level3_Grid_144: 1707909258
+      Level3_Grid_145: -1562709935
+      Level3_Grid_146: -1518903714
+      Level3_Grid_147: 1515354814
+      Level3_Grid_148: -1454266824
+      Level3_Grid_149: -1093721626
+      Level3_Grid_15: -1480317227
+      Level3_Grid_150: -798209890
+      Level3_Grid_151: -1460648744
+      Level3_Grid_152: -1997560853
+      Level3_Grid_153: 421779848
+      Level3_Grid_154: 1830231459
+      Level3_Grid_155: -1026106880
+      Level3_Grid_156: -1347028889
+      Level3_Grid_157: 1877805614
+      Level3_Grid_158: -939021389
+      Level3_Grid_159: 1266964946
+      Level3_Grid_16: -2147455606
+      Level3_Grid_160: -294902948
+      Level3_Grid_161: -493687558
+      Level3_Grid_162: 1542243885
+      Level3_Grid_163: 1176183527
+      Level3_Grid_164: 864809883
+      Level3_Grid_165: 375792785
+      Level3_Grid_166: 2035104458
+      Level3_Grid_167: 1973580934
+      Level3_Grid_168: 1378480677
+      Level3_Grid_169: -2062697523
+      Level3_Grid_17: -1472078104
+      Level3_Grid_170: 376698979
+      Level3_Grid_171: 190824966
+      Level3_Grid_172: -1457835647
+      Level3_Grid_173: 1182115057
+      Level3_Grid_174: 2051134840
+      Level3_Grid_175: -1643644229
+      Level3_Grid_176: 1906552970
+      Level3_Grid_177: 1989047353
+      Level3_Grid_178: 1312962937
+      Level3_Grid_179: -743405357
+      Level3_Grid_18: 173515071
+      Level3_Grid_180: -2043334715
+      Level3_Grid_181: 694941979
+      Level3_Grid_182: -287380071
+      Level3_Grid_183: 545969170
+      Level3_Grid_184: -1089468574
+      Level3_Grid_185: 1111201408
+      Level3_Grid_186: 931456128
+      Level3_Grid_187: 1551627945
+      Level3_Grid_188: -1661032405
+      Level3_Grid_189: 1509075196
+      Level3_Grid_19: -690047768
+      Level3_Grid_190: -1028342501
+      Level3_Grid_191: -616998836
+      Level3_Grid_192: -1381212100
+      Level3_Grid_193: -510141088
+      Level3_Grid_194: -1826308106
+      Level3_Grid_195: -178485126
+      Level3_Grid_196: 231418029
+      Level3_Grid_197: -754659139
+      Level3_Grid_198: 73774864
+      Level3_Grid_199: -31738440
+      Level3_Grid_2: 2003657854
+      Level3_Grid_20: 1608839864
+      Level3_Grid_200: -1826153959
+      Level3_Grid_201: -1076076774
+      Level3_Grid_202: 1952936075
+      Level3_Grid_203: 1103125507
+      Level3_Grid_204: -560374361
+      Level3_Grid_205: 689570679
+      Level3_Grid_206: 1094243566
+      Level3_Grid_207: 327723579
+      Level3_Grid_208: 1753671056
+      Level3_Grid_209: 1546449233
+      Level3_Grid_21: -565347151
+      Level3_Grid_210: 2081598474
+      Level3_Grid_211: 603307107
+      Level3_Grid_212: 772075017
+      Level3_Grid_213: 727071334
+      Level3_Grid_214: -924411315
+      Level3_Grid_215: 1836679223
+      Level3_Grid_216: 1440159714
+      Level3_Grid_217: -959880106
+      Level3_Grid_218: -957222035
+      Level3_Grid_219: 998126672
+      Level3_Grid_22: 438945475
+      Level3_Grid_220: 1272286740
+      Level3_Grid_221: 976022081
+      Level3_Grid_222: -317503978
+      Level3_Grid_223: 2069360655
+      Level3_Grid_224: -597232110
+      Level3_Grid_225: -124485372
+      Level3_Grid_226: -321803133
+      Level3_Grid_227: -640303750
+      Level3_Grid_228: -1242115241
+      Level3_Grid_229: 877182451
+      Level3_Grid_23: -453457498
+      Level3_Grid_230: 870545732
+      Level3_Grid_231: -1076042302
+      Level3_Grid_232: 1653353414
+      Level3_Grid_233: -331039450
+      Level3_Grid_234: 1014728210
+      Level3_Grid_235: -26854027
+      Level3_Grid_236: -279605460
+      Level3_Grid_237: 285546606
+      Level3_Grid_238: -1148870556
+      Level3_Grid_239: -1620862323
+      Level3_Grid_24: 1637745759
+      Level3_Grid_240: -103992274
+      Level3_Grid_241: -524925685
+      Level3_Grid_242: -527190613
+      Level3_Grid_243: 129883025
+      Level3_Grid_244: 1872855628
+      Level3_Grid_245: 202999874
+      Level3_Grid_246: 91399399
+      Level3_Grid_247: 697359391
+      Level3_Grid_248: -1014980023
+      Level3_Grid_25: -1520547306
+      Level3_Grid_26: -1314054797
+      Level3_Grid_27: 469112643
+      Level3_Grid_28: 354393337
+      Level3_Grid_29: 334342277
+      Level3_Grid_3: -1696294727
+      Level3_Grid_30: 700585028
+      Level3_Grid_31: -1760478125
+      Level3_Grid_32: -2063353355
+      Level3_Grid_33: 1042331015
+      Level3_Grid_34: -1117196901
+      Level3_Grid_35: -1742283637
+      Level3_Grid_36: -668488137
+      Level3_Grid_37: 549250933
+      Level3_Grid_38: -1104772781
+      Level3_Grid_39: 1080834896
+      Level3_Grid_4: -46184496
+      Level3_Grid_40: -685540307
+      Level3_Grid_41: -1834769501
+      Level3_Grid_42: 1349458479
+      Level3_Grid_43: 1381684468
+      Level3_Grid_44: -1435789069
+      Level3_Grid_45: -1855941562
+      Level3_Grid_46: -1867341040
+      Level3_Grid_47: 1723399749
+      Level3_Grid_48: -686236783
+      Level3_Grid_49: -454748134
+      Level3_Grid_5: 291838334
+      Level3_Grid_50: 1370662193
+      Level3_Grid_51: -710289533
+      Level3_Grid_52: -1915232302
+      Level3_Grid_53: -1590825535
+      Level3_Grid_54: -1083797094
+      Level3_Grid_55: -2138255474
+      Level3_Grid_56: 1970556627
+      Level3_Grid_57: -1862710723
+      Level3_Grid_58: 855789147
+      Level3_Grid_59: -2072354442
+      Level3_Grid_6: 1146179551
+      Level3_Grid_60: 130318023
+      Level3_Grid_61: 204735912
+      Level3_Grid_62: -1878027458
+      Level3_Grid_63: -889289607
+      Level3_Grid_64: 953455392
+      Level3_Grid_65: -1271068233
+      Level3_Grid_66: 950500643
+      Level3_Grid_67: 1775170453
+      Level3_Grid_68: 1197355288
+      Level3_Grid_69: 2023196772
+      Level3_Grid_7: 2065645791
+      Level3_Grid_70: -1658843978
+      Level3_Grid_71: 2050215750
+      Level3_Grid_72: 1976166858
+      Level3_Grid_73: 329215085
+      Level3_Grid_74: -1572678882
+      Level3_Grid_75: 1483947732
+      Level3_Grid_76: -121977451
+      Level3_Grid_77: -112413356
+      Level3_Grid_78: -1136917227
+      Level3_Grid_79: 1276526886
+      Level3_Grid_8: 1962666979
+      Level3_Grid_80: -2118534288
+      Level3_Grid_81: -1873205839
+      Level3_Grid_82: -31377720
+      Level3_Grid_83: 679384314
+      Level3_Grid_84: 647510132
+      Level3_Grid_85: 1388729877
+      Level3_Grid_86: 411206628
+      Level3_Grid_87: -909332794
+      Level3_Grid_88: -1119373749
+      Level3_Grid_89: -1557512143
+      Level3_Grid_9: 2110239514
+      Level3_Grid_90: 856948167
+      Level3_Grid_91: 763012778
+      Level3_Grid_92: -1404305925
+      Level3_Grid_93: 491609856
+      Level3_Grid_94: 1030467091
+      Level3_Grid_95: -1963381182
+      Level3_Grid_96: 7098935
+      Level3_Grid_97: 1379782948
+      Level3_Grid_98: 2046842678
+      Level3_Grid_99: 882048408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

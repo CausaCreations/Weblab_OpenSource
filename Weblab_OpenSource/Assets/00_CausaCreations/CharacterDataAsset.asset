@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5266cbda9a4f4be3b1dfe86d9a5e976, type: 3}
+  m_Name: CharacterDataAsset
+  m_EditorClassIdentifier: 
+  Data:
+  - Image: {fileID: 21300000, guid: 66ac60d310be14988995f7ab156474c0, type: 3}
+    ImageCharacterSelection: {fileID: 21300000, guid: fac6deeceb43a4e278eb7f0039cc2f63, type: 3}
+    FirstName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567094009856
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    LastName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567094009857
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Place:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567094009858
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Description:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204160
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Level_01_Animation: {fileID: 32900000, guid: 1cbf0d2f69f864d66b5bec8fc390a500, type: 3}
+    Level_02_Animation: {fileID: 32900000, guid: e4ab9685012bd436e93dd6d5e24a72f5, type: 3}
+    Level_03_Animation: {fileID: 32900000, guid: f80f7b255ddd24e4b937e9c9d9875d03, type: 3}
+  - Image: {fileID: 21300000, guid: 83d409f1999a1442e8777c37c7741e97, type: 3}
+    ImageCharacterSelection: {fileID: 21300000, guid: 08a0471ae699c48f4a6e1503034c55f6, type: 3}
+    FirstName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204165
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    LastName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204166
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Place:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204167
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Description:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204168
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Level_01_Animation: {fileID: 32900000, guid: cce26f3672ea14bb3965ab27d75eecd1, type: 3}
+    Level_02_Animation: {fileID: 32900000, guid: 143d471cc903345499d2e78d59cfd389, type: 3}
+    Level_03_Animation: {fileID: 32900000, guid: 6afa2f24ed36d4b909c6394643563a05, type: 3}
+  - Image: {fileID: 21300000, guid: 4ec9645b99e6647de8a8d3cb138e96e1, type: 3}
+    ImageCharacterSelection: {fileID: 21300000, guid: ef67b7567249e4beba94f68bfa816181, type: 3}
+    FirstName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204161
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    LastName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204162
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Place:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204163
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Description:
+      m_TableReference:
+        m_TableCollectionName: GUID:3bf0be8e75d9047c8bac420eca78ced4
+      m_TableEntryReference:
+        m_KeyId: 567098204164
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Level_01_Animation: {fileID: 32900000, guid: 6a607b7a31c3341d1925e1ce4c2909fe, type: 3}
+    Level_02_Animation: {fileID: 32900000, guid: 27532e58a1600482691ca35e0b1fdaa1, type: 3}
+    Level_03_Animation: {fileID: 32900000, guid: 55e4a4c16cb0246cda73aaed8fa9a99d, type: 3}
+  references:
+    version: 2
+    RefIds: []
